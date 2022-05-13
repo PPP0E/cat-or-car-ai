@@ -16,6 +16,7 @@ body {
   background-image: url(/updates/buffs-and-nerfs/cypher-and-sage/anan.jpg);
   background-size: 100%;
   background-position: center;
+  background-repeat: no-repeat;
 } 
 
 .grid {
